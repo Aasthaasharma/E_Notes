@@ -1,0 +1,23 @@
+.navbar{
+	background-color: #d81b60;
+}
+.navbar .navbar-brand {
+	font-size:20px;
+	color: white;
+}
+.navbar .nav-item .nav-link{
+	font-size:20px;
+	color: white;
+}
+.navbar-custom .nav-item:hover .nav-link{
+	background-color: white;
+	color: #d81b60;
+	border-radius: 10px;
+}
+.card-header{
+	background: #d81b60;
+}
+.div-color{
+	background-image: linear-gradient(to right top, #f02bc5, #ff3887, #ff784e, #ffb424, #dee53f);
+	height: 81vh;
+}
